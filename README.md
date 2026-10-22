@@ -14,13 +14,6 @@ Before that I earned a B.S. in Computer Engineering from **UIUC** and a B.E. in 
 
 <table>
 <tr>
-<td width="34%" valign="top"><a href="https://github.com/k33ronng/recover-twin"><b>RecoverTwin</b></a></td>
-<td valign="top">
-Train-free failure recovery for frozen dual-arm policies on RoboTwin 2.0. It detects stalled grasps and regrasps using Florence-2, GraspNet and IK. Randomized-scene success went from 9% → 28% (ACT) and 17% → 30% (RDT-1B).<br>
-<sub>Senior thesis · ZJU · 2026</sub>
-</td>
-</tr>
-<tr>
 <td width="34%" valign="top"><a href="https://wenhaochai.com/CityGen/"><img src="https://qixuanhuang.com/images/pubs/citygen.jpg" alt="CityGen" width="100%"></a></td>
 <td valign="top">
 <b>CityGen: Infinite and Controllable City Layout Generation</b><br>
